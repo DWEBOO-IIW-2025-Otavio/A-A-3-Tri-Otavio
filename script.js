@@ -8,7 +8,6 @@ let nomedvar = "valor variavel";
 let outravar = "valoroutra";
 let variavelnum = "2000";
 let variavelalgumacoisa = false;
-let indefinida
 
 console.log(console.log(););
 console.log(outravar);
